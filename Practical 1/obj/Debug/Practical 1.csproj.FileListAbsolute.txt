@@ -1,0 +1,9 @@
+C:\Users\Chirag\source\repos\DotNetPracticals\Practical 1\bin\Debug\Practical 1.exe.config
+C:\Users\Chirag\source\repos\DotNetPracticals\Practical 1\bin\Debug\Practical 1.exe
+C:\Users\Chirag\source\repos\DotNetPracticals\Practical 1\bin\Debug\Practical 1.pdb
+C:\Users\Chirag\source\repos\DotNetPracticals\Practical 1\obj\Debug\Practical 1.csprojAssemblyReference.cache
+C:\Users\Chirag\source\repos\DotNetPracticals\Practical 1\obj\Debug\Practical 1.exe
+C:\Users\Chirag\source\repos\DotNetPracticals\Practical 1\obj\Debug\Practical 1.pdb
+C:\Users\comp22\Downloads\DotNetPracticals-master\Practical 1\bin\Debug\Practical 1.exe.config
+C:\Users\comp22\Downloads\DotNetPracticals-master\Practical 1\obj\Debug\Practical 1.exe
+C:\Users\comp22\Downloads\DotNetPracticals-master\Practical 1\obj\Debug\Practical 1.pdb
